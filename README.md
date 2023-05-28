@@ -11,17 +11,13 @@ $ ./md5_test
 
 // you may get following:
 
-	[file - md5.c] md5 value:
+	[file - md5.c] md5 value :
 	
 	2a2caf52cb298f177a57a3211213e141
 	
-	[string - gchinaran@gmail.com] md5 value:
+	[string - mohdarham94@gmail.com] md5 value:
 	
-	84701974fb98315895e3ed9053a0b389   
-[file - md5.c] md5 value:
-2a2caf52cb298f177a57a3211213e141
-[string - mohdarham94@gmail.com] md5 value:
-86dfa9320dc847761e5d429164b3b272
+	86dfa9320dc847761e5d429164b3b272  
 
 // and you can check by md5sum
 
