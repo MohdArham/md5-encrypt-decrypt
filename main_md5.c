@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 	int ret;
 	const char *file_path = "md5.c";
 	char md5_str[MD5_STR_LEN + 1];
-	const char *test_str = "gchinaran@gmail.com";
+	const char *test_str = "mohdarham94@gmail.com";
 
 	// test file md5
 	ret = Compute_file_md5(file_path, md5_str);
